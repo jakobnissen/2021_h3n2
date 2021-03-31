@@ -1,0 +1,11 @@
+[deps]
+BioAlignments = "00701ae9-d1dc-5365-b64a-a3a3ebf5695e"
+BioSequences = "7e6ae17a-c86d-528c-b3b9-7f778a29fe59"
+CodecZlib = "944b1d66-785c-5afd-91f1-9de20f533193"
+Conda = "8f4d0f93-b110-5947-807f-2305c1781a2d"
+ErrorTypes = "7f495686-c6d2-4c77-9e8e-e4c865675f9d"
+FASTX = "c2308a5c-f048-11e8-3e8a-31650f418d12"
+Influenza = "094bb4ec-04e4-4f11-bf12-e5749f7dd418"
+InfluenzaCore = "75be95bb-60e3-4423-b8b7-0f2a09593d53"
+InfluenzaReport = "87ad2ded-08e5-49d9-b69e-b0d2e37b4339"
+Transducers = "28d57a85-8fef-5791-bfe6-a80928e7c999"
